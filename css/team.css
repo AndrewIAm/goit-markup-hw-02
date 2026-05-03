@@ -2,7 +2,7 @@
   background-color: #f4f4fd;
 }
 
-.team li {
+.team-card {
   background-color: #ffffff;
 }
 
@@ -15,6 +15,6 @@
   color: #434455;
 }
 
-.team p {
+.team img {
   width: 264px;
 }
