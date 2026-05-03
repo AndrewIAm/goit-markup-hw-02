@@ -13,11 +13,6 @@
   cursor: pointer;
 }
 
-.hero-button:hover,
-.hero-button:focus {
-  background-color: #404bbf;
-}
-
 .hero-title {
   max-width: 498px;
   margin: 0 auto;
@@ -27,4 +22,9 @@
   line-height: 1.07143;
   letter-spacing: 0.02em;
   text-align: center;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
 }
