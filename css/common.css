@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #2e2f42;
+  background-color: #ffffff;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
@@ -17,11 +18,12 @@ a {
 
 address {
   font-style: normal;
+  color: #434455;
 }
 
 .link:hover,
 .link:focus {
-  color: #4d5ae5;
+  color: #404bbf;
 }
 
 .color-accent {
@@ -31,7 +33,7 @@ address {
 .logo {
   font-family: 'Raleway', sans-serif;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 18px;
   line-height: 1.33333;
   letter-spacing: 0.03em;
 }
@@ -39,7 +41,7 @@ address {
 .section-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
 }
